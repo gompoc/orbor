@@ -3,7 +3,7 @@ A reasonably simple but bad WASM binary reader for .NET applications based off t
 
 
 ## Info
-Some parts might be broken, this started as a rewrite of an older and hence some sections aren't implemented for viewing or editing, namely Elem, Start and Table section. I plan on finishing it eventually but until then it'll have to stay like that
+Some parts might be broken, this started as a rewrite of an older version and hence some sections aren't implemented fully for viewing or editing, namely Elem, Start and Table section. I plan on finishing it eventually but until then it'll have to stay like that
 
 Code section writing is broken and therefore is commented out as well
 
